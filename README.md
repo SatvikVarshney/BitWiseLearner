@@ -25,10 +25,10 @@ Model hyperparameters and dataset configurations are stored in `.json` files wit
 Example `param.json`:
 ```json
 {
-  "learning rate": 0.001,
-  "num iter": 100,
-  "batch_size": 64,
-  "bin_dim": 8
+	"learning rate": 0.001,
+	"num iter": 200,
+	"batch_size" : 128,
+	"bin_dim": 8
 }
 ```
 ### Installation
